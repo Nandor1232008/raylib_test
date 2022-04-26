@@ -51,7 +51,6 @@ void InitGameplayScreen(void)
 void UpdateGameplayScreen(void)
 {
     printf("hello %d\n",++x);
-    x++;
     
 
     // Press enter or tap to change to ENDING screen
